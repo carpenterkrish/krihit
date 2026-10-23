@@ -1,2 +1,1 @@
-# krihit
-krihit studeo
+
